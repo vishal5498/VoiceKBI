@@ -1,4 +1,4 @@
-VoiceKBM
+VoiceKBI
 ======================
 This is a simple Python program that allows you to use voice commands to control your keyboard and mouse. I created it to develop my Python skills and learn about using APIs.
 
